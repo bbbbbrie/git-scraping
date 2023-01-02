@@ -1,4 +1,4 @@
 {
-  "message": "Invalid API key - You must be granted a valid key by last.fm",
-  "error": 10
+  "message": "Invalid parameters - Your request is missing a required parameter",
+  "error": 6
 }
