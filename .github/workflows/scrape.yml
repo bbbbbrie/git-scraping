@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-       curl --request GET  --url 'https://ws.audioscrobbler.com/2.0?method=user.getinfo&user=bbbbbbbbrie&format=json&api_key=${LASTFM_API_KEY}' | jq . > incidents.json
+       curl --request GET  --url "https://ws.audioscrobbler.com/2.0?method=user.getinfo&user=bbbbbbbbrie&format=json&api_key=${LASTFM_API_KEY}" | jq . > incidents.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
