@@ -2,13 +2,13 @@
   "user": {
     "name": "bbbbbbbbrie",
     "age": "0",
-    "subscriber": "0",
+    "subscriber": "1",
     "realname": "🌈🦄 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbrie",
     "bootstrap": "0",
-    "playcount": "65181",
+    "playcount": "65240",
     "artist_count": "7956",
     "playlists": "0",
-    "track_count": "23735",
+    "track_count": "23751",
     "album_count": "13911",
     "image": [
       {
@@ -35,6 +35,6 @@
     "country": "None",
     "gender": "n",
     "url": "https://www.last.fm/user/bbbbbbbbrie",
-    "type": "user"
+    "type": "subscriber"
   }
 }
