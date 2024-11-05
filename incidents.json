@@ -2,7 +2,7 @@
   "user": {
     "name": "bbbbbbbbrie",
     "age": "0",
-    "subscriber": "0",
+    "subscriber": "1",
     "realname": "🌈🦄 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbrie",
     "bootstrap": "0",
     "playcount": "81772",
@@ -35,6 +35,6 @@
     "country": "None",
     "gender": "n",
     "url": "https://www.last.fm/user/bbbbbbbbrie",
-    "type": "user"
+    "type": "subscriber"
   }
 }
