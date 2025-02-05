@@ -1,0 +1,40 @@
+{
+  "user": {
+    "name": "bbbbbbbbrie",
+    "age": "0",
+    "subscriber": "1",
+    "realname": "🌈🦄 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbrie",
+    "bootstrap": "0",
+    "playcount": "84946",
+    "artist_count": "9386",
+    "playlists": "0",
+    "track_count": "27824",
+    "album_count": "16043",
+    "image": [
+      {
+        "size": "small",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4dd618445613c4fef004e3819cd71c62.png"
+      },
+      {
+        "size": "medium",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4dd618445613c4fef004e3819cd71c62.png"
+      },
+      {
+        "size": "large",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4dd618445613c4fef004e3819cd71c62.png"
+      },
+      {
+        "size": "extralarge",
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4dd618445613c4fef004e3819cd71c62.png"
+      }
+    ],
+    "registered": {
+      "unixtime": "1414961018",
+      "#text": 1414961018
+    },
+    "country": "None",
+    "gender": "n",
+    "url": "https://www.last.fm/user/bbbbbbbbrie",
+    "type": "subscriber"
+  }
+}
