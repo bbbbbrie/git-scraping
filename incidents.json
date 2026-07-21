@@ -1,15 +1,19 @@
 {
   "user": {
-    "name": "bbbbbbbbrie",
-    "age": "0",
-    "subscriber": "1",
-    "realname": "🌈🦄 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbrie",
-    "bootstrap": "0",
-    "playcount": "105597",
-    "artist_count": "11158",
+    "spotify_expiry_estimate": {
+      "unixtime": "1719619200",
+      "#text": 1719619200
+    },
+    "playcount": "105607",
     "playlists": "0",
-    "track_count": "34404",
     "album_count": "18612",
+    "bootstrap": "0",
+    "url": "https://www.last.fm/user/bbbbbbbbrie",
+    "name": "bbbbbbbbrie",
+    "artist_count": "11158",
+    "gender": "n",
+    "track_count": "34404",
+    "realname": "🌈🦄 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbrie",
     "image": [
       {
         "size": "small",
@@ -33,8 +37,8 @@
       "#text": 1414961018
     },
     "country": "None",
-    "gender": "n",
-    "url": "https://www.last.fm/user/bbbbbbbbrie",
+    "subscriber": "1",
+    "age": "0",
     "type": "subscriber"
   }
 }
