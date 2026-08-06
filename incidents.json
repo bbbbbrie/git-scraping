@@ -9,9 +9,10 @@
     "album_count": "18612",
     "bootstrap": "0",
     "url": "https://www.last.fm/user/bbbbbbbbrie",
+    "age": "0",
     "name": "bbbbbbbbrie",
     "artist_count": "11158",
-    "gender": "n",
+    "subscriber": "1",
     "track_count": "34404",
     "realname": "🌈🦄 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbrie",
     "image": [
@@ -37,8 +38,8 @@
       "#text": 1414961018
     },
     "country": "None",
-    "subscriber": "1",
-    "age": "0",
+    "gender": "n",
+    "corrections": "1",
     "type": "subscriber"
   }
 }
