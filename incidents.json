@@ -18,19 +18,19 @@
     "image": [
       {
         "size": "small",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4dd618445613c4fef004e3819cd71c62.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4dd618445613c4fef004e3819cd71c62.png"
       },
       {
         "size": "medium",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4dd618445613c4fef004e3819cd71c62.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4dd618445613c4fef004e3819cd71c62.png"
       },
       {
         "size": "large",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4dd618445613c4fef004e3819cd71c62.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4dd618445613c4fef004e3819cd71c62.png"
       },
       {
         "size": "extralarge",
-        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4dd618445613c4fef004e3819cd71c62.png"
+        "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4dd618445613c4fef004e3819cd71c62.png"
       }
     ],
     "registered": {
